@@ -12,7 +12,7 @@ It displays the time taken to process all the JavaScript files.
 # Installation
 
 ```
-▶ https://github.com/XJOKZVO/Venro.git
+https://github.com/XJOKZVO/Venro.git
 ```
 
 # Options:
