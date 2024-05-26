@@ -92,7 +92,7 @@ sub extract {
 
 sub print_help {
     print <<'END_HELP';
-Usage: script.pl [options]
+Usage: Venro.pl [options]
 Options:
     -l <file>   .txt file containing JavaScript file URLs
     -u <url>    Single JavaScript file direct URL
