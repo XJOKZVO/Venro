@@ -15,7 +15,7 @@ The script supports two modes of operation:
 # Installation
 
 ```
-https://github.com/XJOKZVO/Venro.git
+git clone https://github.com/XJOKZVO/Venro.git
 ```
 
 # Options:
